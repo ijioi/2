@@ -1,7 +1,7 @@
 Witam na mojej stronie
 
 Strona o mnie:
-[link] https://ijioi.github.io/O-mnie/
+https://ijioi.github.io/O-mnie/
 
 
 
