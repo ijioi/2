@@ -1,6 +1,6 @@
 Witam na mojej stronie
 
-Strona o mnie:
+o mnie:
 https://ijioi.github.io/O-mnie/
 
 
